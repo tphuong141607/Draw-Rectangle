@@ -1,7 +1,7 @@
 # Draw Rectangle 
 
 ## What is it?
-A piece of code, written in C language, that asks the user to input a number n. It will then generate the 3 rectangle outputs based on the given input using for-loop.
+A piece of code, written in C language, that asks the user to input a number n. It will then generate the 3 rectangle outputs that have n lines, using for-loop.
 
 ## What the program output looks like:
 
