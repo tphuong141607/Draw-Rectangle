@@ -1,9 +1,10 @@
 # Draw Rectangle 
+Created on 1/31/2018
 
 ## What is it?
 A piece of code, written in C language, that asks the user to input a number n. It will then generate the 3 rectangle outputs that have n lines, using for-loop.
 
-## What the program output looks like:
+## What the program's output looks like:
 
 <img src="https://github.com/tphuong141607/YesCode-SIMPLE-Draw-Rectangle-Program/blob/master/Output%20Example%20n%3D2.png" width="70%">
 
